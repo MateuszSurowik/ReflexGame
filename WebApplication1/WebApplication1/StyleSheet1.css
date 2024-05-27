@@ -1,0 +1,276 @@
+﻿body {
+    max-height: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+#sunblocks {
+    position: absolute;
+    height: 100%;
+    width: 80%;
+    top: 0%;
+    left: 0%;
+}
+
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 2px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+
+    td + td,
+    th + th {
+        border-left: 1px solid black;
+    }
+
+tr + tr td,
+tr + tr th {
+    border-top: 1px solid black;
+}
+
+#restcontent {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    right: 0%;
+    height: 100%;
+}
+
+td img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+#MinMax {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+    color:red;
+}
+
+#radio {
+    position: absolute;
+    top: 0%;
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.RadioList {
+    border: none; /* Usunięcie obramowania */
+    /* Dodatkowe style */
+}
+
+#choice {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 20%;
+}
+
+#rozmiarDropDownList {
+    position: absolute;
+    bottom: 0%;
+    left: 5%;
+}
+
+#sunblocks div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 5px black;
+}
+
+#p {
+    width: 100%;
+    display: flex;
+    text-align: center;
+ 
+}
+p{
+    color:blue
+}
+#second {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 33%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#third {
+    position: absolute;
+    top: 0;
+    left: 33.33%;
+    height: 33%;
+    width: 33%;
+}
+
+#fourth {
+    position: absolute;
+    top: 0;
+    left: 66.66%;
+    height: 33%;
+    width: 33%;
+}
+
+#five {
+    position: absolute;
+    top: 33.33%;
+    left: 0;
+    height: 33%;
+    width: 33%;
+}
+
+#six {
+    position: absolute;
+    top: 33.33%;
+    left: 33.33%;
+    height: 33%;
+    width: 33%;
+}
+
+#seven {
+    position: absolute;
+    top: 33.33%;
+    left: 66.66%;
+    height: 33%;
+    width: 33%;
+}
+
+#eight {
+    position: absolute;
+    top: 66.66%;
+    left: 0;
+    height: 33%;
+    width: 33%;
+}
+
+#nine {
+    position: absolute;
+    top: 66.66%;
+    left: 33.33%;
+    height: 33%;
+    width: 33%;
+}
+
+#ten {
+    position: absolute;
+    top: 66.66%;
+    left: 66.66%;
+    height: 33%;
+    width: 33%;
+}
+
+#login {
+    position: absolute;
+    background-color: cornflowerblue;
+    width: 50%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+    #login label {
+        position: absolute;
+        top: 5%;
+    }
+
+#rejestrButton {
+    position: absolute;
+    bottom: 40%;
+}
+
+#dane {
+    position: absolute;
+    padding: 5px;
+    top: 30%;
+}
+
+#log {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#error1 {
+    position: absolute;
+    right: 20%;
+    top: 35%;
+}
+
+#error2 {
+    position: absolute;
+    right: 30%;
+    top: 35%;
+}
+
+#error3 {
+    position: absolute;
+    right: 30%;
+    top: 35%;
+}
+
+#errors {
+    position: absolute;
+    bottom: 5%;
+    right: 40%;
+}
+#usersDropDownList{
+    position:absolute;
+    top:1%;
+    color:blue;
+}
+#userlab{
+    position:absolute;
+    bottom:45%;
+    color:red;
+}
+#userdata {
+    position: absolute;
+    bottom: 45%;
+}
+#userDetailsView{
+    position:absolute;
+    top:15%;
+    right:11%;
+    background-color:antiquewhite;
+}
+#UpdatePanel1 {
+    width: 90%;
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    height: 40%;
+    bottom: 4%;
+    justify-content:center;
+    align-items:center;
+}
+#resetButton {
+    position: absolute;
+    bottom: 5%;
+}

@@ -1,0 +1,21 @@
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\studia semestr 5 programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\studiasemestr5programy\pai\lab1r\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\programowanie projekty\portfolio\c#\reflex game\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
